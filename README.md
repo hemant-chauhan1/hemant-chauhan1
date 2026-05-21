@@ -83,34 +83,7 @@ Building scalable web applications, CMS platforms, and modern cloud-ready soluti
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemant-chauhan1&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hemant-chauhan1&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemant-chauhan1&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Connect With Me
-
-- 💼 LinkedIn: Add Your LinkedIn URL
-- 🌐 Portfolio: Add Your Portfolio URL
 - 📧 Email: hemantchouhan9998@gmail.com
 
 ---
