@@ -15,8 +15,8 @@ Building scalable web applications, CMS platforms, and modern cloud-ready soluti
 - 💻 Full Stack Developer specializing in MERN Stack
 - 🌱 Currently learning Docker, AWS, CI/CD and DevOps
 - 🔭 Building scalable web applications using React, Next.js, Node.js and MySQL
-- ⚡ Experienced in CMS Development & Admin Panels
-- 🚀 Deploying applications on Vercel, Hostinger and Render
+- ⚡ Experienced in developing high-performance websites, content management systems (CMS), and enterprise-grade admin panels
+- 🚀 Deploying applications on AWS, Vercel, Hostinger and Render
 - 📫 Reach me at: **hemantchouhan9998@gmail.com**
 
 ---
